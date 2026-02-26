@@ -1,18 +1,100 @@
- # 💫 About Me:
-👋 Hi, I’m Asawari Anand Mitragotri<br>💻 2nd-year AI & Data Science student | Web Developer<br>🌱 Passionate about building interactive websites and learning new web technologies<br>🚀 Sharing my work on GitHub to learn, grow, and collaborate<br><br> 
+ <!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Asawari Mitragotri</h1>
+<h3 align="center">AI & Data Science Student | Web Developer | Problem Solver</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asawari-mitragotri-2b6624333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asawarimitragotri@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeWithAsawari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAsawari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAsawari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithAsawari&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithAsawari" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeWithAsawari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 2nd Year Student pursuing **Artificial Intelligence & Data Science**  
+💻 Passionate about **Web Development and Programming**  
+🌱 Currently learning **Data Structures, Java, and Backend Development**  
+🚀 Sharing my coding journey and projects on GitHub  
+🎯 Goal: Become a skilled **Software Developer & AI Engineer**  
+
+---
+
+## 🧠 What I'm Currently Working On
+
+- 📌 DSA practice in C and Java  
+- 📌 Building Web Development projects  
+- 📌 Maintaining structured coding repositories  
+- 📌 Strengthening problem-solving skills  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,git,github,vscode" />
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 Java project
+https://github.com/CodeWithAsawari/Java-project
+
+*(More projects coming soon....)
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeWithAsawari&show_icons=true&theme=tokyonight" height="165">
+
+<img src="https://streak-stats.demolab.com?user=CodeWithAsawari&theme=tokyonight" height="165">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAsawari&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+## 🏆 Achievements & Goals
+
+✔ Daily coding practice  
+✔ Building structured repositories  
+✔ Learning new technologies  
+🎯 Upcoming goals:
+- Learn React
+- Learn Backend Development
+- Build Full Stack Projects
+- Start Competitive Programming seriously
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/asawari-mitragotri-2b6624333">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:asawarimitragotri@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I believe in: **"Consistency is more powerful than motivation."**
+
+---
+
+⭐ From [CodeWithAsawari](https://github.com/CodeWithAsawari)
